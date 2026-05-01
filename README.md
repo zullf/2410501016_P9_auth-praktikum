@@ -45,7 +45,7 @@ biometric authentication, protected routes, password reset, email verification, 
 
 ## Video Demo
 Link demo aplikasi yotube:
-[Klik untuk menonton video demo Youtube](youtube.com)
+[Klik untuk menonton video demo Youtube]([youtube.com](https://youtu.be/EyQmURHZvOo))
 
 ---
 
