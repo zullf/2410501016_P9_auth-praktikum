@@ -37,10 +37,10 @@ biometric authentication, protected routes, password reset, email verification, 
 ## Screenshot Preview
 
 <p>
-  <img src="assets/loginscreen.jpeg" width="225" style="margin-right:10px;"/>
-  <img src="assets/registerscreen.jpeg" width="225" style="margin-right:10px;"/>
-  <img src="assets/forgotpwscreen.jpeg" width="225" style="margin-right:10px;"/>
-  <img src="assets/homescreen.jpeg" width="225" style="margin-right:10px;"/>
+  <img src="assets/loginscreen.jpeg" width="200" style="margin-right:10px;"/>
+  <img src="assets/registerscreen.jpeg" width="200" style="margin-right:10px;"/>
+  <img src="assets/forgotpwscreen.jpeg" width="200" style="margin-right:10px;"/>
+  <img src="assets/homescreen.jpeg" width="200" style="margin-right:10px;"/>
 </p>
 
 ## Video Demo
