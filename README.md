@@ -60,7 +60,7 @@ git clone <URL_REPOSITORY>
 
 ### 2. Masuk Ke Folder Project
 ```bash
-cd ResepKita
+cd auth-praktikum
 ```
 
 ### 3. Install Dependencies
